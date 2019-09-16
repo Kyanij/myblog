@@ -1,10 +1,7 @@
-title: Blogger Foo
-email: bloggerfoobar@yahoo.com
+title: Kyanij 
+email: kyanij10@gmail.com.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am Foo. This is my blogging platform. Programmers use me as a
-  placeholder name in their Computer programs to name entities such as
-  Variables, Functions, Commands etc to demonstrate more concept
-  than the identity.
+  This is me kyanij Maharjan currently studying Bsc. CSIT from Sagarmatha college of IT.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true # Show blog post of future date

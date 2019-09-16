@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Technology stack used for blogging template
-date: 2019-04-06 08:02:19 +0530
+title: Testing Frond End with Cypress
+date: 2019-09-06 08:02:19 +0530
 categories:
 - blogging
 - jekyll
@@ -12,34 +12,11 @@ tags:
 status: publish
 type: post
 published: true
-author: Budh Ram Gurung
+author: Kyanij Maharjan
 thumbnail_path: blog/stack.png
 ---
 
-## Language
-
-{% include image.html
-           img="/ruby-logo.png"
-           url="https://www.ruby-lang.org/en/"
-           title="Ruby Language"
-           class="centered"
-%}
-
-[Ruby Language](https://www.ruby-lang.org/en/){:target="_blank"}
-
-A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write
+End to end testing is a software testing methodology, where the flow of the application is tested across the entire software stack and architecture. Here, we test the entirety of the application. Software nowadays is becoming more complex. Applications are built on layers and entire networks of subsystems, including UI and API layers, external databases, networks, and even third-party integrations.
+In Unit testing, we test a unit or piece of code whereas, in integration testing, we test how the unit works together. In end-to-end each and every integral part that composed an application is tested. Every component is vital for the stability of the application. If any of these fails, so does the application too. This means there's a clear need to test the entire application. End to End testing should be run in both automate and manual fashion allowing your team to maximize their coverage.
 
 
-## Framework
-
-{% include image.html
-           img="/jekyll-logo.png"
-           url="https://jekyllrb.com/"
-           title="Jekyll"
-           class="centered"
-%}
-
-[Jekyll](https://jekyllrb.com/){:target="_blank"}
-
-A Ruby framework to transform your plain text into static websites and blogs. 
-See [Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/){:target="_blank"}.

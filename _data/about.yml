@@ -1,19 +1,42 @@
 tagline: Trying to Live Simple Life
 brief_intro: |
-  I am Foo. This is my blogging platform. Programmers use me as a placeholder name in their Computer 
-  programs to name entities such as Variables, Functions, Commands etc to demonstrate concept rather 
-  than the someone's identity.
+ It's me Kyani tech enthusistic guy passionate in learning new technology. I love to solve real world problem with the help of technology.
 roles:
   - company: Self-Employed
-    designation: Freelancer & Blogger
+    designation: Front End Developer
     logo: freelancer.jpg
-    link: https://bloggerfoo.github.io
+    link: https://kyanij.github.io
     intro: |
-      I am a Software Engineer and an avid blogger. I am being used as a placeholder name for computer programs.
+      I am a Front End Developer and want to become a Full Stack Developer. I am so much passionate in learning new technology.
+
+  - company: Self-Employed
+    designation: Student
+    logo: sagarmatha.jpg
+    link: https://kyanij.github.io
+    intro: |
+      I am currently studying Bsc. CSIT 8th sem in Sagarmatha College of Science and Technology.
 
 journey:
-  - company: Freelancer
-    from: April 5, 2019
+  - company: Intern 
+    from: Sept 9, 2019
     to: Present
     direction: direction-l
-    designation: Software Engineer
+    designation: Full Stack Developer
+
+  - company: CloudFactory
+    from: March 5, 2018
+    to: Feb 15, 2019
+    direction: direction-r
+    designation: Data Specialist
+
+  - company: Sagarmatha college of IT
+    from: Feb 15, 2015
+    to: March 08, 2019
+    direction: direction-r
+    designation: Student
+
+  - company: Jubilant College
+    from: Feb 15, 2013
+    to: March 08, 2014
+    direction: direction-r
+    designation: Student

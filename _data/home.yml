@@ -16,6 +16,8 @@ contacts:
     url: https://www.linkedin.com/in/kyanij-maharjan/
     label: Subscribe
     class: fab fa-linkedin-in 
- 
+  gmail:
+    mailto: kyanij10@gmail.com
+    class: fa fa-envelope
 
    

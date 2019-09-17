@@ -2,8 +2,8 @@ title: Kyanij
 email: kyanij10@gmail.com.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is me kyanij Maharjan currently studying Bsc. CSIT from Sagarmatha college of IT.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kyanij.github.io/myblog/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "myblog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true # Show blog post of future date
 
 google_analytics: foo-bar-google-analytics-id # Replace it with your ID starting as UA-
